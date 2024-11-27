@@ -4,7 +4,7 @@
 ### EN
 *WebSocket* is a computer communications protocol, providing a simultaneous two-way communication channel over a single Transmission Control Protocol (TCP) connection. The WebSocket protocol was standardized by the IETF as RFC 6455 in 2011.
 
-✨ A **must-watch** video: [iOS App Architecture for Realtime UI updates via WebSockets](https://example.com/video).  
+📹 A **must-watch** video: [iOS App Architecture for Realtime UI updates via WebSockets](https://example.com/video).  
 It's incredibly helpful for learning how to handle real-time UI updates with WebSockets!
 
 -----
