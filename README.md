@@ -4,9 +4,6 @@
 ### EN
 *WebSocket* is a computer communications protocol, providing a simultaneous two-way communication channel over a single Transmission Control Protocol (TCP) connection. The WebSocket protocol was standardized by the IETF as RFC 6455 in 2011.
 
-📹 A **must-watch** video: [iOS App Architecture for Realtime UI updates via WebSockets](https://youtu.be/7YXYgT2zTAQ?si=pxPrsr2rNZNCIVaB).  
-It's incredibly helpful for learning how to handle real-time UI updates with WebSockets!
-
 -----
 
 ### RU
@@ -55,6 +52,11 @@ It's incredibly helpful for learning how to handle real-time UI updates with Web
 - SSE - это технология, позволяющая серверу отправлять данные клиенту в режиме реального времени по одностороннему соединению. В отличие от WebSocket, соединение устанавливается только от сервера к клиенту.
 - Где используется? SSE подходит для простых реализаций, где нужно передавать данные только от сервера клиенту, например, для обновления новостей или уведомлений. SSE проще, чем WebSocket, но не поддерживает двустороннюю связь.
 - Когда использовать? SSE подходит для случаев, когда приложение требует только поток данных от сервера (например, ленты новостей), а WebSocket лучше использовать, когда требуется двусторонняя связь (например, чаты).
+
+-----
+
+📹 A **must-watch** video: [iOS App Architecture for Realtime UI updates via WebSockets](https://youtu.be/7YXYgT2zTAQ?si=pxPrsr2rNZNCIVaB).  
+It's incredibly helpful for learning how to handle real-time UI updates with WebSockets!
 
 -----
 
