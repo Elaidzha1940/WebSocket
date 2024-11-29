@@ -55,7 +55,7 @@
 
 -----
 
-📹 A **must-watch** video: [iOS App Architecture for Realtime UI updates via WebSockets](https://youtu.be/7YXYgT2zTAQ?si=pxPrsr2rNZNCIVaB).  
+- 📹 A **must-watch** video: [iOS App Architecture for Realtime UI updates via WebSockets](https://youtu.be/7YXYgT2zTAQ?si=pxPrsr2rNZNCIVaB).  
 It's incredibly helpful for learning how to handle real-time UI updates with WebSockets!
 
 -----
